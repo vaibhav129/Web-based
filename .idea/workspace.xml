@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1f6b7b9b-40d1-4b00-851c-e8965c18edb9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/client_server_1/blockchain.py" beforeDir="false" afterPath="$PROJECT_DIR$/client_server_1/blockchain.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client_server_1/my_constants.py" beforeDir="false" afterPath="$PROJECT_DIR$/client_server_1/my_constants.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client_server_1/server.py" beforeDir="false" afterPath="$PROJECT_DIR$/server1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main_server/blockchain.py" beforeDir="false" afterPath="$PROJECT_DIR$/main_server/blockchain.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main_server/my_constants.py" beforeDir="false" afterPath="$PROJECT_DIR$/main_server/my_constants.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main_server/server.py" beforeDir="false" afterPath="$PROJECT_DIR$/server.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="80f03834-a228-4517-a8e3-38d071ae2723" />
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:\IntelliJ IDEA 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="23WKu0l9WuCSwzYtEhYPhwZINvZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Blockchain-based-Decentralized-File-Sharing-System-using-IPFS\main_server\templates" />
+      <recent name="D:\Blockchain-based-Decentralized-File-Sharing-System-using-IPFS" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.server">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="server" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Blockchain-based-Decentralized-File-Sharing-System-using-IPFS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="server1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Blockchain-based-Decentralized-File-Sharing-System-using-IPFS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\Blockchain-based-Decentralized-File-Sharing-System-using-IPFS\main_server\templates\server1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.server" />
+        <item itemvalue="Python.server1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1f6b7b9b-40d1-4b00-851c-e8965c18edb9" name="Default Changelist" comment="" />
+      <created>1641844623430</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641844623430</updated>
+      <workItem from="1641844625446" duration="4159000" />
+      <workItem from="1642423505725" duration="755000" />
+      <workItem from="1642596024102" duration="747000" />
+      <workItem from="1642596789437" duration="205000" />
+      <workItem from="1642656205087" duration="504000" />
+      <workItem from="1642658778236" duration="613000" />
+      <workItem from="1649939144449" duration="76000" />
+      <workItem from="1650279881938" duration="4332000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="249" y="0" key="#Project_Structure" timestamp="1641844666302">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="249" y="0" key="#Project_Structure/0.0.1536.816@0.0.1536.816" timestamp="1641844666302" />
+    <state x="391" y="210" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1642596662659">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="391" y="210" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.816@0.0.1536.816" timestamp="1642596662659" />
+    <state width="1493" height="208" key="GridCell.Tab.0.bottom" timestamp="1650284234305">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="208" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1650284234305" />
+    <state width="1493" height="208" key="GridCell.Tab.0.center" timestamp="1650284234305">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="208" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1650284234305" />
+    <state width="1493" height="208" key="GridCell.Tab.0.left" timestamp="1650284234305">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="208" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1650284234305" />
+    <state width="1493" height="208" key="GridCell.Tab.0.right" timestamp="1650284234305">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="208" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1650284234305" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1650282714294">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1650282714294" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Blockchain_based_Decentralized_File_Sharing_System_using_IPFS$server.coverage" NAME="server Coverage Results" MODIFIED="1650284120048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Blockchain_based_Decentralized_File_Sharing_System_using_IPFS$server1.coverage" NAME="server1 Coverage Results" MODIFIED="1650282123008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
